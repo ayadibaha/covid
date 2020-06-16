@@ -1,4 +1,4 @@
-<div class="main-menu menu-fixed menu-light menu-accordion    menu-shadow " data-scroll-to-active="true" data-img="/projet/template/theme-assets/images/backgrounds/02.jpg">
+<div class="main-menu menu-fixed menu-light menu-accordion    menu-shadow " data-scroll-to-active="true" data-img="/template/theme-assets/images/backgrounds/02.jpg">
   <div class="navbar-header">
     <ul class="nav navbar-nav flex-row">
       <li class="nav-item mr-auto"><a class="navbar-brand" href="index.php"><img class="brand-logo" style="width: 130px;margin-top: -15px;margin-left: 35%;" alt="Covid-19" src="/projet/login/images/covid19tunisia-fb.png" />

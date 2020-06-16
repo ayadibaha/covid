@@ -43,7 +43,7 @@
               </div>
             </div>
           </li>
-          <li class="dropdown dropdown-user nav-item"><a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown"> <span class="avatar avatar-online"><img src="/projet/template/theme-assets/images/portrait/small/avatar-s-19.png" alt="avatar"><i></i></span></a>
+          <li class="dropdown dropdown-user nav-item"><a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown"> <span class="avatar avatar-online"><img src="/template/theme-assets/images/portrait/small/avatar-s-19.png" alt="avatar"><i></i></span></a>
             <div class="dropdown-menu dropdown-menu-right">
               <div class="arrow_box_right"><span class="user-name text-bold-700 ml-1" style="padding:20px 0;display:block;"><?php echo $_SESSION['username']; ?></span></span>
                 <div class="dropdown-divider"></div><a class="dropdown-item" href="logout.php"><i class="ft-power"></i> Logout</a>
