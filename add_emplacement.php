@@ -5,5 +5,6 @@ if (sizeof($_GET) > 0) {
     $lng = $_GET['lng'];
     $client = $_GET['client'];
     $query = "INSERT INTO emplacement(latitude, longitude, infected_id VALUES('" . $lat . "', '" . $lng . "','12345678')";
-    $db->query($query);
+    $result = $db->query($query);
+    echo $result;
 }
