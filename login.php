@@ -46,7 +46,7 @@ if (isset($_SESSION['username'])) {
             <div class="wrap-login100 p-l-50 p-r-50 p-t-72 p-b-50" style="padding-top:10px!important;">
                 <form class="login100-form validate-form" method="post" action="auth.php">
 
-                    <img src="./login/images/covid19tunisia-fb.png" style="height:15%;margin-bottom:20px;">
+                    <img src="./login/images/covid19tunisia-fb.png" style="height:250px;margin-bottom:20px;">
                     <span class="login100-form-title p-b-59">
                         Authentification
                     </span>
